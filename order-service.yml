@@ -8,8 +8,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/order_db
     username: postgres
-    password: postgres
-
+    password: pepeti
   jpa:
     hibernate:
       ddl-auto: update
